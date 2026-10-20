@@ -1,0 +1,29 @@
+{
+  "_comment": [
+    "TOUR TIMES — edit freely. 'day' must be Mon, Tue, Wed, Thu or Fri.",
+    "Times are shown exactly as written. Sample times only: Becky sets the real ones.",
+    "If the 'Tour Slots' tab exists in the Google Sheet and backendUrl is set, the Sheet wins."
+  ],
+  "slots": [
+    {
+      "day": "Tue",
+      "times": [
+        "9:30 am",
+        "10:30 am"
+      ]
+    },
+    {
+      "day": "Wed",
+      "times": [
+        "1:00 pm"
+      ]
+    },
+    {
+      "day": "Thu",
+      "times": [
+        "9:30 am",
+        "10:30 am"
+      ]
+    }
+  ]
+}
