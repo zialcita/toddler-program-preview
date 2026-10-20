@@ -1,0 +1,29 @@
+# The Toddler Program
+
+> Small, non-profit preschool in Kaimukī, Honolulu, Hawaiʻi, for children ages 2–5.
+
+## Facts (updated 2026-10-20)
+- Name: The Toddler Program
+- Address: 3509 Pāhoa Ave, Honolulu, HI 96816 (Kaimukī)
+- Phone: (808) 735-3197
+- Email: admin@thetoddlerprogram.com
+- Hours: Mon–Fri 8:15 am–3:00 pm; drop-off from 7:00 am; optional after-school care to 5:15 pm (additional fee)
+- Ages: 2–5 in four classes: Sunshine Bears (age 2); Aloha Bears (age 3); Friendship Bears (age 4); Honey Bears · Jr. K (age 5)
+- Two-year-olds are welcome even if not yet potty trained
+- Curriculum: literature-based; Monday enrichment in Music, Mandarin and movement; walking excursions in Kaimukī
+- Non-profit with Christian values; families of all faiths welcome
+- Tuition: contact the office for current 2026–27 tuition
+- Tours: about 30 minutes; call or email to book. Apply through the office after touring.
+- Social: https://www.facebook.com/thetoddlerprogram/ · https://www.instagram.com/thetoddlerprogram
+
+## Pages
+- [Home](https://zialcita.github.io/toddler-program-preview/)
+- [Program](https://zialcita.github.io/toddler-program-preview/program.html)
+- [Admissions Apply](https://zialcita.github.io/toddler-program-preview/admissions-apply.html)
+- [Tuition](https://zialcita.github.io/toddler-program-preview/tuition.html)
+- [Faq](https://zialcita.github.io/toddler-program-preview/faq.html)
+- [Giving](https://zialcita.github.io/toddler-program-preview/giving.html)
+- [Sunshine Bears](https://zialcita.github.io/toddler-program-preview/sunshine-bears.html)
+- [Aloha Bears 3 Year Olds](https://zialcita.github.io/toddler-program-preview/aloha-bears-3-year-olds.html)
+- [Friendship Bears 4 Year Olds](https://zialcita.github.io/toddler-program-preview/friendship-bears-4-year-olds.html)
+- [Honey Bears Junior Kindergarten](https://zialcita.github.io/toddler-program-preview/honey-bears-junior-kindergarten.html)
