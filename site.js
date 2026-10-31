@@ -2,7 +2,8 @@
 const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
 const B=window.BEARS||[];document.querySelectorAll('.age').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.age').forEach(x=>x.setAttribute('aria-pressed','false'));b.setAttribute('aria-pressed','true');const d=B[+b.dataset.i],m=document.getElementById('match');m.style.background=d.bg;m.innerHTML=d.html;}));
 
-const C=window.TTP_CONFIG||{};const DN=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+const C=window.TTP_CONFIG||{};
+if(C.tourBookingUrl){document.querySelectorAll('a[href$="#tour"]').forEach(a=>{a.href=C.tourBookingUrl;a.rel='noopener'})}const DN=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
 async function slotsCfg(){if(C.backendUrl){try{const r=await fetch(C.backendUrl+'?action=slots');const j=await r.json();if(j.slots&&j.slots.length)return j.slots}catch(e){}}try{const r=await fetch('tour-slots.json');return (await r.json()).slots||[]}catch(e){return[]}}
 const tf=document.getElementById('tourForm');
 if(tf){tf.startedAt.value=Date.now();const d=tf.date,t=new Date();t.setDate(t.getDate()+1);d.min=t.toISOString().slice(0,10);let SL=[];slotsCfg().then(x=>SL=x);
