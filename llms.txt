@@ -2,7 +2,7 @@
 
 > Small, non-profit preschool in Kaimukī, Honolulu, Hawaiʻi, for children ages 2–5.
 
-## Facts (updated 2026-10-20)
+## Facts (updated 2026-10-30)
 - Name: The Toddler Program
 - Address: 3509 Pāhoa Ave, Honolulu, HI 96816 (Kaimukī)
 - Phone: (808) 735-3197
@@ -13,7 +13,12 @@
 - Two-year-olds are welcome even if not yet potty trained
 - Curriculum: literature-based; Monday enrichment in Music, Mandarin and movement; walking excursions in Kaimukī
 - Non-profit with Christian values; families of all faiths welcome
-- Tuition: contact the office for current 2026–27 tuition
+- Tuition & fees (as posted on thetoddlerprogram.org/tuition-and-fees; fees are subject to change):
+  - Regular School Year 2025–2026 (August 12, 2025 to May 22, 2026): Tuition $14,200; After School Care $3,005 (3:00 pm to 5:15 pm); Lunch $1,325
+  - Summer Session 2026 (June 15, 2026 to July 24, 2026): Tuition $2,760.40; After School Care $587.10 (3:00 pm to 5:15 pm); Lunch $257.50
+  - Application fee: $60; 2027–2028 application deadline December 19, 2026
+  - 2026–2027 and 2027–2028 tuition: contact the office, (808) 735-3197
+  - Details: https://zialcita.github.io/toddler-program-preview/tuition.html#tuition-fees
 - Tours: about 30 minutes; call or email to book. Apply through the office after touring.
 - Social: https://www.facebook.com/thetoddlerprogram/ · https://www.instagram.com/thetoddlerprogram
 
