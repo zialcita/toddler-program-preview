@@ -12,9 +12,9 @@ L.innerHTML=m.length?m.map((x,i)=>`<label><input type="radio" name="time" value=
 tf.addEventListener('submit',async e=>{e.preventDefault();const msg=tf.querySelector('.formmsg');msg.className='full formmsg';const fd=Object.fromEntries(new FormData(tf));
 if(!tf.checkValidity()||!fd.time){msg.textContent='Please choose a date and time, and fill in your name, email, phone and child\'s age.';msg.classList.add('err');tf.reportValidity();return}
 if(fd.website)return;fd.type='tour';
-if(C.backendUrl){try{msg.textContent='Sending…';const r=await fetch(C.backendUrl,{method:'POST',body:JSON.stringify(fd)});const j=await r.json();if(j.ok){msg.textContent='Mahalo! Your tour request is in. We\'ll confirm by email or phone.';msg.classList.add('ok');tf.reset();return}throw 0}catch(_){msg.textContent='Something went wrong. Opening an email instead…'}}
+if(C.backendUrl){try{msg.textContent='Sending…';const r=await fetch(C.backendUrl,{method:'POST',body:JSON.stringify(fd)});const j=await r.json();if(j.ok){window.ttpTrack&&ttpTrack('schedule_tour','Schedule',{method:'backend'});msg.textContent='Mahalo! Your tour request is in. We\'ll confirm by email or phone.';msg.classList.add('ok');tf.reset();return}throw 0}catch(_){msg.textContent='Something went wrong. Opening an email instead…'}}
 const body=encodeURIComponent(`Aloha! We'd love to tour The Toddler Program.\n\nPreferred: ${fd.date} at ${fd.time}\nParent: ${fd.name}\nEmail: ${fd.email}\nPhone: ${fd.phone}\nChild's age: ${fd.childAge}\nNotes: ${fd.notes||''}`);
-location.href=`mailto:admin@thetoddlerprogram.com?subject=${encodeURIComponent('Tour request - '+fd.name)}&body=${body}`;});}
+window.ttpTrack&&ttpTrack('schedule_tour','Schedule',{method:'mailto'});location.href=`mailto:admin@thetoddlerprogram.com?subject=${encodeURIComponent('Tour request - '+fd.name)}&body=${body}`;});}
 // exit-intent popup (Honey Bears) — switch off with TTP_CONFIG.exitPopup=false
 (function(){const xp=document.getElementById('xp');if(!xp||C.exitPopup===false)return;let shown=false;try{shown=sessionStorage.getItem('ttpXp')}catch(e){}
 let last=null;const open=()=>{if(shown)return;shown=1;try{sessionStorage.setItem('ttpXp','1')}catch(e){}last=document.activeElement;xp.classList.add('open');xp.querySelector('.x').focus();document.addEventListener('keydown',esc)};

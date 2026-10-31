@@ -18,6 +18,12 @@ window.TTP_CONFIG = {
   // to send every "Book a Tour" button there instead.
   tourBookingUrl: "",
 
+  // Analytics. GA4 measurement ID (approved by Martin 2026-10-30).
+  ga4Id: "G-T8X5DPET2L",
+  // Meta Pixel ID: not ready yet. Leave "" until the dataset exists in the
+  // "thetoddlerprogram 1" business portfolio; then paste the numeric ID.
+  metaPixelId: "",
+
   // Honey Bears (5-year-olds) pop-up. true = on, false = off.
   exitPopup: true
 };
