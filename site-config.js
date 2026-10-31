@@ -5,7 +5,7 @@ window.TTP_CONFIG = {
   // Paste the Google Apps Script web app URL here after deploying
   // (ends in /exec). Leave "" to keep the email fallback for tours
   // and the "call or use the PDF" message on the application.
-  backendUrl: "",
+  backendUrl: "https://script.google.com/macros/s/AKfycbwx3NK_KlSfZ7SqNc2sLKcV-xQ53lHVhsyO6zWSFa7FIo86CLLYWG0utyn_BNdrXzNr4g/exec",
   // Used by apply.html (type=application) and the home-page tour form (type=tour).
 
   // Online fee payment (Stripe Payment Link). While this still says
