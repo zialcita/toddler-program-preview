@@ -1,0 +1,21 @@
+<!doctype html>
+<html><head><base target="_top"><meta charset="utf-8">
+<style>
+ body{font:14px/1.45 Georgia,serif;color:#222;max-width:780px;margin:24px auto;padding:0 16px}
+ h1{font-size:20px;margin:0}.sub{color:#555;margin:2px 0 14px}
+ table{width:100%;border-collapse:collapse}td{border-bottom:1px solid #ddd;padding:6px 8px;vertical-align:top}
+ td.k{width:38%;font-weight:bold;color:#444}td.v{white-space:pre-wrap}
+ .bar{margin:12px 0}button{font:inherit;padding:8px 18px;cursor:pointer}
+ @media print{.bar{display:none}body{margin:0}@page{margin:14mm}tr{page-break-inside:avoid}}
+</style></head><body>
+ <div class="bar"><button onclick="window.print()">Print</button></div>
+ <h1>THE TODDLER PROGRAM — Application Form</h1>
+ <p class="sub">3509 Pahoa Avenue, Honolulu, HI 96816 · 808-735-3197 · Application ID <?= id ?></p>
+ <table>
+ <? for (var i = 0; i < head.length; i++) { ?>
+  <tr><td class="k"><?= head[i] ?></td><td class="v"><?= rec[i] ?></td></tr>
+ <? } ?>
+ </table>
+ <p class="sub" style="margin-top:18px"><b>For Office Use Only</b> — Date received: ________ Start Date: ________<br>
+ Application fee received (non-refundable) $______ Date Received: ________ Date of Tour: ________</p>
+</body></html>

@@ -18,19 +18,25 @@
   - Summer Session 2026 (June 15, 2026 to July 24, 2026): Tuition $2,760.40; After School Care $587.10 (3:00 pm to 5:15 pm); Lunch $257.50
   - Application fee: $60; 2027–2028 application deadline December 19, 2026
   - 2026–2027 and 2027–2028 tuition: contact the office, (808) 735-3197
-  - Details: https://zialcita.github.io/toddler-program-preview/tuition.html#tuition-fees
+  - Details: https://thetoddlerprogram.org/tuition.html#tuition-fees
 - Tours: about 30 minutes; call or email to book. Apply through the office after touring.
 - Social: https://www.facebook.com/thetoddlerprogram/ · https://www.instagram.com/thetoddlerprogram
 
 ## Pages
-- [Home](https://zialcita.github.io/toddler-program-preview/)
-- [Program](https://zialcita.github.io/toddler-program-preview/program.html)
-- [Admissions Apply](https://zialcita.github.io/toddler-program-preview/admissions-apply.html)
-- [Apply](https://zialcita.github.io/toddler-program-preview/apply.html)
-- [Tuition](https://zialcita.github.io/toddler-program-preview/tuition.html)
-- [Faq](https://zialcita.github.io/toddler-program-preview/faq.html)
-- [Giving](https://zialcita.github.io/toddler-program-preview/giving.html)
-- [Sunshine Bears](https://zialcita.github.io/toddler-program-preview/sunshine-bears.html)
-- [Aloha Bears 3 Year Olds](https://zialcita.github.io/toddler-program-preview/aloha-bears-3-year-olds.html)
-- [Friendship Bears 4 Year Olds](https://zialcita.github.io/toddler-program-preview/friendship-bears-4-year-olds.html)
-- [Honey Bears Junior Kindergarten](https://zialcita.github.io/toddler-program-preview/honey-bears-junior-kindergarten.html)
+- [Home](https://thetoddlerprogram.org/)
+- [Program](https://thetoddlerprogram.org/program.html)
+- [Admissions Apply](https://thetoddlerprogram.org/admissions-apply.html)
+- [Apply](https://thetoddlerprogram.org/apply.html)
+- [Tuition](https://thetoddlerprogram.org/tuition.html)
+- [Faq](https://thetoddlerprogram.org/faq.html)
+- [Giving](https://thetoddlerprogram.org/giving.html)
+- [Sunshine Bears](https://thetoddlerprogram.org/sunshine-bears.html)
+- [Aloha Bears 3 Year Olds](https://thetoddlerprogram.org/aloha-bears-3-year-olds.html)
+- [Friendship Bears 4 Year Olds](https://thetoddlerprogram.org/friendship-bears-4-year-olds.html)
+- [Honey Bears Junior Kindergarten](https://thetoddlerprogram.org/honey-bears-junior-kindergarten.html)
+
+## Policies
+- [Privacy Policy](https://thetoddlerprogram.org/privacy.html): admissions-only use, no selling, Google Workspace storage, GA4 and Meta Pixel with opt-outs, parent rights
+- [Terms of Use](https://thetoddlerprogram.org/terms.html)
+- [Accessibility Statement](https://thetoddlerprogram.org/accessibility.html)
+- Tuition and fees are subject to change; website information is not a contract.
