@@ -1,0 +1,65 @@
+{
+  "cleanUrls": false,
+  "redirects": [
+    {
+      "source": "/application",
+      "destination": "/admissions-apply.html",
+      "permanent": true
+    },
+    {
+      "source": "/contact-us",
+      "destination": "/#tour",
+      "permanent": true
+    },
+    {
+      "source": "/giving",
+      "destination": "/giving.html",
+      "permanent": true
+    },
+    {
+      "source": "/other-information",
+      "destination": "/faq.html",
+      "permanent": true
+    },
+    {
+      "source": "/our-program",
+      "destination": "/program.html",
+      "permanent": true
+    },
+    {
+      "source": "/tuition-and-fees",
+      "destination": "/tuition.html",
+      "permanent": true
+    },
+    {
+      "source": "/application/",
+      "destination": "/admissions-apply.html",
+      "permanent": true
+    },
+    {
+      "source": "/contact-us/",
+      "destination": "/#tour",
+      "permanent": true
+    },
+    {
+      "source": "/giving/",
+      "destination": "/giving.html",
+      "permanent": true
+    },
+    {
+      "source": "/other-information/",
+      "destination": "/faq.html",
+      "permanent": true
+    },
+    {
+      "source": "/our-program/",
+      "destination": "/program.html",
+      "permanent": true
+    },
+    {
+      "source": "/tuition-and-fees/",
+      "destination": "/tuition.html",
+      "permanent": true
+    }
+  ]
+}
